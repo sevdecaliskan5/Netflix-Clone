@@ -38,8 +38,4 @@ CSS Hover Effects: Used for interactive elements such as buttons and links to im
 
 **Smooth Scrolling:** The scrolling experience is fluid and intuitive, especially for sections that contain large amounts of information.
 
-# Live Demo / Preview
-
-To get a better understanding of how the website works, check out the screen recording below. It showcases the responsive design, smooth animations, and interactive features of the page in action. Watch the demo to see the project's features in real-time!
-
 ![Netflix-GoogleChrome2024-10-1616-40-23-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/9d94e956-878b-469b-a91c-5701988ca5b4)
